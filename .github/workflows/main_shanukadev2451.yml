@@ -52,4 +52,5 @@ jobs:
           app-name: 'shanukadev2451'
           slot-name: 'Production'
           package: .
+
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4CD64BA6521C4CB8BFD07891D495B6E0 }}
